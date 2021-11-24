@@ -1,0 +1,10 @@
+.monthList {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.birthdayList {
+  list-style-type: '\1F389';
+  margin: 0;
+  margin-bottom: 10px;
+}

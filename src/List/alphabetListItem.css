@@ -1,0 +1,73 @@
+.empList {
+  text-align: center;
+  padding-left: 10rem;
+  padding: 0.3rem;
+  margin-right: 0;
+  background-color: #fff9dc;
+  border-radius: 20px;
+}
+
+.employItem {
+  display: inline-block;
+  margin-bottom: 0.3rem;
+  padding: 1rem;
+  padding-top: 0;
+}
+
+.employItem h4 {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.alphList {
+  list-style: none;
+  margin: 0;
+  width: 90%;
+  margin-left: 1rem;
+}
+
+.alphTabs {
+  border-radius: 20px;
+  margin-bottom: 2px;
+  padding-right: 0;
+  width: fit-content;
+  max-width: 70%;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px;
+  width: 70%;
+  text-align: center;
+}
+
+h3 {
+  margin: 20px;
+  padding-top: 1rem;
+}
+
+.alphTabs:nth-child(even) {
+  background-color: #e5ffe7;
+}
+
+.alphTabs:nth-child(odd) {
+  background-color: #ffe5e5;
+}
+
+.noEmployees {
+  margin: 0;
+  border: 2px solid #da70d6;
+  margin-top: 1.5rem;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.active {
+  color: dodgerblue;
+}
+
+h4 {
+  margin: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
